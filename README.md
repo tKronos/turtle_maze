@@ -5,7 +5,7 @@ A maze-solving game implemented in Python using the Turtle Graphics library.
 - [x] Base maze game
 
 ### Extensions:
-- [ ] Improved Interface
+- [x] Improved Interface
 - [ ] Maze Generation
 - [ ] Dungeons and Turtles
 - [ ] Turtle Racing
