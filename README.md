@@ -2,7 +2,7 @@
 A maze-solving game implemented in Python using the Turtle Graphics library.
 
 ### Main Game
-- [x] Baze laby game
+- [x] Base maze game
 
 ### Extensions:
 - [ ] Improved Interface
